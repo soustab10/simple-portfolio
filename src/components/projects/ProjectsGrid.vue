@@ -3,7 +3,7 @@
     <div class="container">
       <h2 class="my-md-5 text-center mb-3">Projects</h2>
       <div class="row">
-        <div class="col-12 col-lg-3 mb-3 mb-md-5">
+        <!-- <div class="col-12 col-lg-3 mb-3 mb-md-5">
           <input
             v-model="searchProject"
             class="form-control"
@@ -14,7 +14,7 @@
             placeholder="Search Projects"
             aria-label="Name"
           />
-        </div>
+        </div> -->
         <div class="col-12 col-lg-6 mb-3 mb-md-5"></div>
         <div class="col-12 col-lg-3 mb-3 mb-md-5">
           <project-filter @filter="selectedCategory = $event" />

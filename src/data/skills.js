@@ -2,7 +2,7 @@ const skills = [
   {
     id: 1,
     title: "Frontend",
-    image: "backend_blue.png",
+    image: "frontend_blue.png",
     languages: [
       {
         id: 1,
@@ -51,7 +51,7 @@ const skills = [
   {
     id: 2,
     title: "Backend",
-    image: "frontend_blue.png",
+    image: "backend_blue.png",
     languages: [
       {
         id: 1,
