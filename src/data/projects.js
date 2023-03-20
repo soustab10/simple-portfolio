@@ -22,7 +22,7 @@ const projects = [
   {
     id: 3,
     title: "AlphaNumericle",
-    image: "smartmonitor.png",
+    image: "alphanum.png",
     url: "https://github.com/soustab10/Numericle",
     category: "Web Development",
     tags: ["SCSS", "JavaScript", "Firebase"],
