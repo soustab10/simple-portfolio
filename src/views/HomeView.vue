@@ -1,7 +1,7 @@
 <template>
   <!-- Menu -->
   <MenuVue :links="links">soustab 👋 </MenuVue>
-  <HeroSection id="hero" pic="header.png">
+  <HeroSection id="hero" pic="header.jpg">
     <template v-slot:welcome>Hello!</template>
     My name is <b>Soustab Haldar</b> and I'm a
     <hi-word>full-stack developer</hi-word>
