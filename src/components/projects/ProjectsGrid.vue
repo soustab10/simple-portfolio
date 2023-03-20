@@ -33,13 +33,11 @@
 </template>
 <script>
 import SingleProject from "./SingleProject.vue";
-import ProjectFilter from "./ProjectFilter.vue";
 
 export default {
   name: "ProjectsGrid",
   props: ["projects"],
   components: {
-    ProjectFilter,
     SingleProject,
   },
   data: () => {

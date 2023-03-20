@@ -1,6 +1,6 @@
 <template>
   <nav
-    class="navbar navbar-expand-lg navbar-light bg-white fixed-top"
+    class="navbar navbar-expand-lg navbar-light bg-gray-900 fixed-top"
     id="main-nav"
   >
     <div class="container">
@@ -19,7 +19,7 @@
         <span class="navbar-toggler-icon"></span>
       </button>
 
-      <div class="collapse navbar-collapse bg-white" id="navbar4">
+      <div class="collapse navbar-collapse bg-gray-900" id="navbar4">
         <ul class="navbar-nav ms-auto">
           <li v-for="link in links" :key="link.name" class="nav-item px-lg-2">
             <a class="nav-link" :href="link.url">{{ link.name }}</a>

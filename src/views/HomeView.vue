@@ -1,6 +1,6 @@
 <template>
   <!-- Menu -->
-  <MenuVue :links="links">> # ~ / nikita<span class="prim">r</span></MenuVue>
+  <MenuVue :links="links">soustab 👋 </MenuVue>
   <HeroSection id="hero" pic="header.png">
     <template v-slot:welcome>Hello!</template>
     My name is <b>Soustab Haldar</b> and I'm a
@@ -12,16 +12,22 @@
     across platforms.
     <template v-slot:buttons>
       <simple-button
+        class="btn-primary"
+        url="mailto:soustabhaldar10@gmail.com"
+        icon="fa-regular fa-file-lines"
+        >Contact me</simple-button
+      >
+      <simple-button
+        class="btn-primary text-white"
+        url="https://github.com/soustab10"
+        icon="fab github"
+        >View all Projects!</simple-button
+      >
+      <simple-button
         class="btn-primary text-white"
         url="https://www.linkedin.com/in/soustab-haldar/"
         icon="fab linkedin-in"
         >Hire me!</simple-button
-      >
-      <simple-button
-        class="btn-outline-secondary"
-        url="mailto:soustabhaldar10@gmail.com"
-        icon="fa-regular fa-file-lines"
-        >Contact me</simple-button
       >
     </template>
   </HeroSection>
@@ -66,10 +72,6 @@ export default {
           url: "#edu-exp",
         },
         {
-          name: "awards",
-          url: "#awards",
-        },
-        {
           name: "projects",
           url: "#projects",
         },
@@ -90,7 +92,7 @@ export default {
         },
         {
           id: 3,
-          icon: "fab instagram",
+          icon: "fab fa-instagram",
           url: "https://www.instagram.com/sousphotos_/",
         },
       ],

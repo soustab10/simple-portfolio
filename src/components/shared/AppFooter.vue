@@ -16,10 +16,6 @@
       <!-- Section: Social media -->
     </div>
     <!-- Grid container -->
-
-    <!-- Copyright -->
-    <div class="text-center p-3">© {{ copyright }}</div>
-    <!-- Copyright -->
   </footer>
 </template>
 <script>

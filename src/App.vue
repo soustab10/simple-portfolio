@@ -44,19 +44,6 @@ export default {
         lang: "en",
         amp: true,
       },
-      twitter: {
-        title: "Soustab Haldar - Full Stack Developer",
-        description: "Just a guy with passion for coding",
-        card: "summary_large_image",
-        image: "https://rusetskii.dev" + require(`@/assets/images/preview.jpg`),
-      },
-      og: {
-        title: "Soustab Haldar - Full Stack Developer",
-        description: "Just a guy with passion for coding",
-        type: "website",
-        image: "https://rusetskii.dev" + require(`@/assets/images/preview.jpg`),
-        site_name: "Soustab Haldar - Full Stack Developer",
-      },
       link: [
         {
           rel: "icon",
