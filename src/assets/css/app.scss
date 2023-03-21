@@ -1,4 +1,4 @@
-$default-family: 'Open Sans', sans-serif;
+$default-family: 'Poppins', sans-serif;
 $default-font-size: 14px;
 $primary: #2b5a8a;
 $secondary: #41b883;
@@ -18,8 +18,9 @@ $docker: #2496ED;
 $py: #306998;
 $arduino: #73c9ef;
 $figma: #995cf6;
-$js: #F7DF1E;
+$js: #745c1e;
 $xd: #400835;
 
 @import "bootstrap";
-@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cedarville+Cursive&display=swap');

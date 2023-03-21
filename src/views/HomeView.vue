@@ -1,6 +1,16 @@
 <template>
   <!-- Menu -->
-  <MenuVue :links="links">soustab 👋 </MenuVue>
+  <MenuVue :links="links"
+    ><div
+      style="
+        color: #2b5a8a;
+        font-size: 32px;
+        font-family: 'Cedarville Cursive', cursive;
+      "
+    >
+      Soustab
+    </div>
+  </MenuVue>
   <HeroSection id="hero" pic="header.jpg">
     <template v-slot:welcome><div style="color: #2b5a8a">Hello!</div></template>
     My name is <b>Soustab Haldar</b> and I'm a
