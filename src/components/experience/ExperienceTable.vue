@@ -27,7 +27,7 @@ h3,
 h4,
 h5,
 h6 {
-  color: #3d4351;
+  color: #2b5a8a;
   margin-top: 0;
 }
 li {

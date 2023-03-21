@@ -24,4 +24,8 @@ export default {
   props: ["job"],
 };
 </script>
-<style></style>
+<style>
+.timeline-marker:before {
+  background: #41b883 !important;
+}
+</style>

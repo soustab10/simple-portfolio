@@ -88,69 +88,68 @@ span:hover {
   color: #fff;
   background-color: #4fc08d;
 }
-
-.bulma:hover {
+.react:hover {
   color: #fff;
-  background-color: #00d1b2;
+  background-color: #61dbfb;
 }
-
 .bootstrap:hover {
   color: #fff;
   background-color: #7952b3;
 }
-
 .typescript:hover {
   color: #fff;
   background-color: #3178c6;
 }
-
-.java:hover {
+.nuxt:hover {
   color: #fff;
-  background-color: #007396;
+  background-color: #41b883;
 }
-
-.groovy:hover {
+.tailwind:hover {
   color: #fff;
-  background-color: #4298b8;
+  background-color: #52b3d0;
 }
-
-.solr:hover {
+.sass:hover {
   color: #fff;
-  background-color: #d9411e;
+  background-color: #b91678;
 }
-
-.spring:hover {
+.express:hover {
+  color: #fff;
+  background-color: #303030;
+}
+.mongodb:hover {
   color: #fff;
   background-color: #6db33f;
 }
-
-.kotlin:hover {
+.mysql:hover {
   color: #fff;
-  background-color: #0095d5;
+  background-color: #00add8;
 }
-
+.go:hover {
+  color: #fff;
+  background-color: #29beb0;
+}
 .docker:hover {
   color: #fff;
   background-color: #2496ed;
 }
-
-.tensorflow:hover {
+.py:hover {
   color: #fff;
-  background-color: #ff6f00;
+  background-color: #306998;
 }
-
-.pytorch:hover {
+.arduino:hover {
   color: #fff;
-  background-color: #ee4c2c;
+  background-color: #73c9ef;
 }
-
-.opencv:hover {
+.figma:hover {
   color: #fff;
-  background-color: #5c3ee8;
+  background-color: #995cf6;
 }
-
+.xd:hover {
+  color: #fff;
+  background-color: #400835;
+}
 .js:hover {
-  color: #000;
-  background-color: #f7df1e;
+  color: #fff;
+  background-color: #746a1e;
 }
 </style>

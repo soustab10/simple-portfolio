@@ -1,6 +1,6 @@
 <template>
   <nav
-    class="navbar navbar-expand-lg navbar-light bg-gray-900 fixed-top"
+    class="navbar navbar-expand-lg navbar-light bg-white fixed-top"
     id="main-nav"
   >
     <div class="container">

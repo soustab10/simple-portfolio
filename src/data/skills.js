@@ -7,42 +7,42 @@ const skills = [
       {
         id: 1,
         title: "Vue.js",
-        css: "java",
+        css: "vuejs",
       },
       {
         id: 2,
         title: "React.js",
-        css: "groovy",
+        css: "react",
       },
       {
         id: 3,
         title: "Nuxt.js",
-        css: "solr",
+        css: "nuxt",
       },
       {
         id: 4,
         title: "Javascript",
-        css: "spring",
+        css: "js",
       },
       {
         id: 5,
         title: "Typescript",
-        css: "docker",
+        css: "typescript",
       },
       {
         id: 6,
         title: "Bootstrap",
-        css: "docker",
+        css: "bootstrap",
       },
       {
         id: 7,
         title: "TailwindCSS",
-        css: "docker",
+        css: "tailwind",
       },
       {
         id: 8,
-        title: "SaaS",
-        css: "docker",
+        title: "Sass",
+        css: "sass",
       },
     ],
     description:
@@ -56,22 +56,22 @@ const skills = [
       {
         id: 1,
         title: "Express.js",
-        css: "js",
+        css: "express",
       },
       {
         id: 2,
         title: "MongoDb",
-        css: "vuejs",
+        css: "mongodb",
       },
       {
         id: 3,
         title: "Django",
-        css: "bootstrap",
+        css: "typescript",
       },
       {
         id: 4,
         title: "MySQL",
-        css: "bulma",
+        css: "mysql",
       },
     ],
     description:
@@ -85,42 +85,42 @@ const skills = [
       {
         id: 1,
         title: "Docker",
-        css: "tensorflow",
+        css: "docker",
       },
       {
         id: 2,
         title: "Go",
-        css: "pytorch",
+        css: "go",
       },
       {
         id: 3,
         title: "Python",
-        css: "opencv",
+        css: "py",
       },
       {
         id: 4,
         title: "C++",
-        css: "opencv",
+        css: "docker",
       },
       {
         id: 5,
         title: "Arduino",
-        css: "opencv",
+        css: "arduino",
       },
       {
         id: 6,
         title: "Figma",
-        css: "opencv",
+        css: "figma",
       },
       {
         id: 7,
         title: "Photoshop",
-        css: "opencv",
+        css: "typescript",
       },
       {
         id: 8,
         title: "Adobe XD",
-        css: "opencv",
+        css: "xd",
       },
     ],
     description:

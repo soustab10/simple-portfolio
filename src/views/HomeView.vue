@@ -2,7 +2,7 @@
   <!-- Menu -->
   <MenuVue :links="links">soustab 👋 </MenuVue>
   <HeroSection id="hero" pic="header.jpg">
-    <template v-slot:welcome>Hello!</template>
+    <template v-slot:welcome><div style="color: #2b5a8a">Hello!</div></template>
     My name is <b>Soustab Haldar</b> and I'm a
     <hi-word>full-stack developer</hi-word>
     and <hi-word>UI-UX Developer</hi-word> My passion is building
@@ -113,5 +113,9 @@ export default {
 <style lang="scss" scoped>
 .prim {
   color: $primary;
+}
+
+.welcome-text {
+  color: $secondary;
 }
 </style>
