@@ -102,7 +102,12 @@ export default {
         },
         {
           id: 3,
-          icon: "fab fa-instagram",
+          icon: "fab twitter",
+          url: "https://twitter.com/soustabh",
+        },
+        {
+          id: 4,
+          icon: "fab instagram",
           url: "https://www.instagram.com/sousphotos_/",
         },
       ],

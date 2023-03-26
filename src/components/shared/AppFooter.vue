@@ -1,8 +1,13 @@
 <template>
-  <footer class="bg-dark text-white text-center">
+  <footer class="footer flex-row text-white text-center">
     <!-- Grid container -->
-    <div class="container p-3 pb-0">
-      <!-- Section: Social media -->
+    <div
+      class="container flex-row p-3 pb-4"
+      style="display: flex; justify-content: space-between"
+    >
+      <span style="font-size: 32px; font-family: 'Cedarville Cursive', cursive">
+        Soustab
+      </span>
       <section>
         <!-- Linkedin -->
         <icon-link
@@ -10,7 +15,7 @@
           :key="link.id"
           :url="link.url"
           :icon="link.icon"
-          class="text-white"
+          class="text-white hover:text-black"
         />
       </section>
       <!-- Section: Social media -->
@@ -28,4 +33,8 @@ export default {
   name: "AppFooter",
 };
 </script>
-<style></style>
+<style>
+.footer {
+  background-color: #2b5a8a;
+}
+</style>

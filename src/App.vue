@@ -38,7 +38,7 @@ export default {
   },
   setup() {
     useMeta({
-      title: "Soustab Haldar - Full Stack Developer",
+      title: "Soustab Haldar Portfolip",
       description: "Just a guy with passion for coding",
       htmlAttrs: {
         lang: "en",

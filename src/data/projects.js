@@ -15,7 +15,7 @@ const projects = [
     image: "sdgsite.png",
     url: "https://github.com/COPS-IITBHU/sdg-site",
     category: "Full Stack Development and UI/UX Development",
-    tags: ["Vue.js", "Typescript", "Saas"],
+    tags: ["Vue.js", "Typescript", "sass"],
     description:
       "SDG Site id the official website for the Software Developers vertical under Club of Programmers IIT BHU. I worked on redesigning the UI of the website and the frontend implementaion.",
   },
