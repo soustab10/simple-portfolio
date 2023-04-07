@@ -5,7 +5,7 @@ Made using Vue.js and Javascript
 Setup:
 ```
 npm install
-npm run dev
+vue-cli-service serve
 ```
 
 Site should be hosted on localhost:5050
