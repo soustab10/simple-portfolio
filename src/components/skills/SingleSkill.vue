@@ -120,6 +120,14 @@ span:hover {
   color: #fff;
   background-color: #6db33f;
 }
+.springboot:hover {
+  color: #fff;
+  background-color: #205100;
+}
+.powerbi:hover {
+  color: #fff;
+  background-color: #b87100;
+}
 .mysql:hover {
   color: #fff;
   background-color: #00add8;

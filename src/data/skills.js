@@ -16,7 +16,7 @@ const skills = [
       },
       {
         id: 3,
-        title: "Nuxt.js",
+        title: "Next.js",
         css: "nuxt",
       },
       {
@@ -73,9 +73,14 @@ const skills = [
         title: "MySQL",
         css: "mysql",
       },
+      {
+        id: 4,
+        title: "Spring Boot",
+        css: "springboot",
+      },
     ],
     description:
-      "I mostly develop backend with Javascript frameworks like Express.js and Node.js with good profieciency in python frameworks like Django and databases like MongoDb and MySQL",
+      "I mostly develop backend with Javascript frameworks like Express.js and Node.js with good profieciency in other frameworks like Django and Spring Boot.I am well versed with databases like MongoDb and MySQL",
   },
   {
     id: 3,
@@ -84,24 +89,25 @@ const skills = [
     languages: [
       {
         id: 1,
-        title: "Docker",
+        title: "Google Cloud Platform",
         css: "docker",
       },
       {
         id: 2,
-        title: "Go",
+        title: "C",
         css: "go",
       },
       {
         id: 3,
-        title: "Python",
-        css: "py",
-      },
-      {
-        id: 4,
         title: "C++",
         css: "docker",
       },
+      {
+        id: 4,
+        title: "Python",
+        css: "py",
+      },
+
       {
         id: 5,
         title: "Arduino",
@@ -114,7 +120,7 @@ const skills = [
       },
       {
         id: 7,
-        title: "Photoshop",
+        title: "Adobe Photoshop",
         css: "typescript",
       },
       {
@@ -122,9 +128,19 @@ const skills = [
         title: "Adobe XD",
         css: "xd",
       },
+      {
+        id: 9,
+        title: "Git",
+        css: "springboot",
+      },
+      {
+        id: 10,
+        title: "Microsoft Power BI",
+        css: "powerbi",
+      },
     ],
     description:
-      "In addition to software development, I am a UI/UX Developer using Figma and Adobe XD.",
+      "In addition to software development, I am a UI/UX Developer using Figma and Adobe XD. I am also versed in Cloud Computing and DevOps using Google Cloud Platform.",
   },
 ];
 

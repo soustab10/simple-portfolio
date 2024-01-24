@@ -5,9 +5,17 @@
       class="container flex-row p-3 pb-4"
       style="display: flex; justify-content: space-between"
     >
-      <span style="font-size: 32px; font-family: 'Cedarville Cursive', cursive">
-        Soustab
-      </span>
+      <div class="flex flex-col" style="display: flex; flex-direction: column">
+        <span
+          style="font-size: 32px; font-family: 'Cedarville Cursive', cursive"
+        >
+          Soustab
+        </span>
+        <span style="font-size: 14px">
+          Indian Institute of Technology (BHU) Varanasi
+        </span>
+      </div>
+
       <section>
         <!-- Linkedin -->
         <icon-link
